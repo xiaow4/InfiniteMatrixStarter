@@ -1,0 +1,6 @@
+2023/09/16-00:47:24.607 8fc Creating DB E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/09/16-00:47:24.669 8fc Reusing MANIFEST E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/16-00:51:24.953 27c Level-0 table #5: started
+2023/09/16-00:51:25.044 27c Level-0 table #5: 1167 bytes OK
+2023/09/16-00:51:25.068 27c Delete type=0 #3
+2023/09/16-00:51:25.094 27c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

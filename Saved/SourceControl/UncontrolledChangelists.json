@@ -10,14 +10,25 @@
 				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
-				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthBar.uasset",
-				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_HealthPack.uasset",
-				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_Enemy.uasset",
 				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset",
 				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Enemy.uasset",
 				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material.uasset",
 				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Score.uasset",
-				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBar.uasset"
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/Megascans/3D_Assets/Damaged_Baseball_vlkjbj1/S_Damaged_Baseball_vlkjbj1_lod3.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/Megascans/3D_Assets/Skull_wk2nact/S_Skull_wk2nact_lod3_Var1.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/Megascans/3D_Assets/Damaged_Baseball_vlkjbj1/MI_Damaged_Baseball_vlkjbj1_2K.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material1.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/Megascans/3D_Assets/Skull_wk2nact/MI_Skull_wk2nact_2K.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Red.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Gradient_Color.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthBar.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_HealthPack.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_Enemy.uasset"
 			]
 		}
 	]
