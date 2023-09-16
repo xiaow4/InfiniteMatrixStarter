@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthBar.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_HealthPack.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_Enemy.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Enemy.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"E:/UE5/Epic Games/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBar.uasset"
+			]
+		}
+	]
+}
